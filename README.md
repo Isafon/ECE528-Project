@@ -81,7 +81,7 @@ We are combining public datasets with our **custom dataset**:
 ## 🚀 Deployment
 
 **Hardware:**
-- Raspberry Pi 4 (or 5)
+- Raspberry Pi 4 
 - Pi Camera / USB webcam
 
 **Software:**
@@ -91,5 +91,5 @@ We are combining public datasets with our **custom dataset**:
 - MediaPipe
 
 **Run on Pi:**
-```bash
+'''bash
 python3 main.py
