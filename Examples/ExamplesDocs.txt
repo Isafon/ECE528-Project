@@ -1,0 +1,8 @@
+Examples for Raspberry Pi
+
+Camera:
+https://docs.arducam.com/Raspberry-Pi-Camera/Pivariety-Camera/Quick-Start-Guide/
+
+Databases and Code Examples:
+http://geeksforgeeks.org/machine-learning/sign-language-recognition-system-using-tensorflow-in-python/
+https://data-flair.training/blogs/sign-language-recognition-python-ml-opencv/
